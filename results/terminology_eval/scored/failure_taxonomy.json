@@ -1,0 +1,22 @@
+{
+  "semantic_rubric": {
+    "2": "Core community-specific meaning correctly recovered",
+    "1": "Partially correct or relevant, but an important semantic feature is missing",
+    "0": "Incorrect meaning"
+  },
+  "failure_categories": [
+    "CORRECT",
+    "PARTIAL_CORE_MEANING",
+    "COMPOSITIONAL_LITERALIZATION",
+    "WRONG_SENSE",
+    "WRONG_COMMUNITY",
+    "RELATED_BUT_DISTINCT_CONCEPT",
+    "OVERGENERALIZATION",
+    "HALLUCINATED_MECHANISM",
+    "NO_KNOWLEDGE",
+    "REFUSAL_OR_NO_ANSWER",
+    "INSTRUCTION_FORMAT_FAILURE",
+    "OTHER"
+  ],
+  "instruction": "Assign semantic_score and nuanced failure_category manually; do not infer them from keywords."
+}

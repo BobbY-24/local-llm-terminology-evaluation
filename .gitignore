@@ -1,0 +1,23 @@
+# Local runtime and downloaded model weights
+.venv/
+models/
+
+# Python and tool caches
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# macOS and editor files
+.DS_Store
+*.swp
+*~
+
+# Microsoft Office lock files
+~$*
+
+# Local secrets and environment overrides
+.env
+.env.*
+!.env.example

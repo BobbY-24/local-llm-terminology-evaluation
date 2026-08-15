@@ -1,0 +1,93 @@
+{
+  "context_compatibility": [
+    {
+      "ci_high": 0.580110497237569,
+      "ci_low": 0.4889502762430939,
+      "correct": 194,
+      "extra_generation": 362,
+      "format_error_rate": 0.0,
+      "format_errors": 0,
+      "group": "Overall",
+      "items": 362,
+      "macro_term_accuracy": 0.5359116022099447,
+      "micro_accuracy": 0.5359116022099447,
+      "terms": 181
+    },
+    {
+      "ci_high": 0.6906077348066298,
+      "ci_low": 0.5524861878453039,
+      "correct": 113,
+      "extra_generation": 181,
+      "format_error_rate": 0.0,
+      "format_errors": 0,
+      "group": "Positive",
+      "items": 181,
+      "macro_term_accuracy": 0.6243093922651933,
+      "micro_accuracy": 0.6243093922651933,
+      "terms": 181
+    },
+    {
+      "ci_high": 0.5193370165745856,
+      "ci_low": 0.3756906077348066,
+      "correct": 81,
+      "extra_generation": 181,
+      "format_error_rate": 0.0,
+      "format_errors": 0,
+      "group": "Negative",
+      "items": 181,
+      "macro_term_accuracy": 0.44751381215469616,
+      "micro_accuracy": 0.44751381215469616,
+      "terms": 181
+    }
+  ],
+  "definition_outputs": 905,
+  "human_definition_scores_available": 0,
+  "masked_recovery": {
+    "by_domain": [
+      {
+        "ci_high": 0.46598202824133506,
+        "ci_low": 0.382051282051282,
+        "correct": 327,
+        "domain": "Gaming",
+        "extra_generation": 766,
+        "format_error_rate": 0.006459948320413436,
+        "format_errors": 5,
+        "items": 774,
+        "macro_term_accuracy": 0.4297062750333778,
+        "micro_accuracy": 0.42248062015503873,
+        "terms": 107
+      },
+      {
+        "ci_high": 0.6390845070422535,
+        "ci_low": 0.5443478260869565,
+        "correct": 332,
+        "domain": "Cybersecurity",
+        "extra_generation": 559,
+        "format_error_rate": 0.0196078431372549,
+        "format_errors": 11,
+        "items": 561,
+        "macro_term_accuracy": 0.5905405405405405,
+        "micro_accuracy": 0.5918003565062389,
+        "terms": 74
+      }
+    ],
+    "domain_difference": {
+      "ci_high": -0.10463718896412899,
+      "ci_low": -0.23501681944813713,
+      "gaming_minus_cybersecurity": -0.16931973635120012
+    },
+    "overall": {
+      "ci_high": 0.5275471698113208,
+      "ci_low": 0.4601181683899557,
+      "correct": 659,
+      "extra_generation": 1325,
+      "format_error_rate": 0.01198501872659176,
+      "format_errors": 16,
+      "items": 1335,
+      "macro_term_accuracy": 0.49546172059984217,
+      "micro_accuracy": 0.4936329588014981,
+      "terms": 181
+    }
+  },
+  "run_id": "terminology_eval_qwen25_3b_base_seed42_v1"
+}

@@ -1,0 +1,12 @@
+{
+  "context_compatibility": "Community terminology compatibility\nTerm: Pass the hash\nContext: It is my understanding that [TERM] works by stealing hashes from LSASS of users that have logged on to the system.\nThis context is a valid use of the term (YES or NO):",
+  "definition_conditions": {
+    "A0_term_only": "Terminology glossary\nTerm: Pass the hash\nMeaning:",
+    "A1_domain": "Terminology glossary\nDomain: Cybersecurity\nTerm: Pass the hash\nMeaning:",
+    "A2_community": "Terminology glossary\nCommunity: Red Team / Windows Credential Abuse\nTerm: Pass the hash\nMeaning:",
+    "A3_one_context": "Terminology glossary\nCommunity: Red Team / Windows Credential Abuse\nTerm: Pass the hash\nAuthentic usage:\nIt is my understanding that pass the hash works by stealing hashes from LSASS of users that have logged on to the system.\nMeaning:",
+    "A4_three_contexts": "Terminology glossary\nCommunity: Red Team / Windows Credential Abuse\nTerm: Pass the hash\nAuthentic usages:\n1. It is my understanding that pass the hash works by stealing hashes from LSASS of users that have logged on to the system.\n2. The NTLM hash of the computer account could be utilized in pass-the-hash attacks.\n3. APT28 has used pass the hash for lateral movement.\nMeaning:"
+  },
+  "masked_term_recovery": "Community terminology completion\nContext: It is my understanding that [TERM] works by stealing hashes from LSASS of users that have logged on to the system.\nOptions:\nA. Detections as Code\nB. out-of-band\nC. Pass the hash\nD. Pass the Ticket\nCorrect option (A, B, C, or D):",
+  "note": "Examples are instantiated for audit; source URLs never appear in prompts."
+}

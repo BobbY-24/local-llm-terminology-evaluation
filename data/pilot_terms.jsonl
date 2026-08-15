@@ -1,0 +1,7 @@
+{"id":"gaming_stat_stick_definition","term":"stat stick","domain":"gaming","template":"definition_completion"}
+{"id":"gaming_smurf_continuation","term":"smurf","domain":"gaming","template":"natural_continuation"}
+{"id":"gaming_gank_definition","term":"gank","domain":"gaming","template":"definition_completion"}
+{"id":"gaming_diff_continuation","term":"diff","domain":"gaming","template":"natural_continuation"}
+{"id":"security_credential_stuffing_definition","term":"credential stuffing","domain":"cybersecurity","template":"definition_completion"}
+{"id":"security_honeypot_continuation","term":"honeypot","domain":"cybersecurity","template":"natural_continuation"}
+{"id":"gaming_smurf_mcq","term":"smurf","domain":"gaming","template":"mcq","question":"In online gaming, what does the term smurf most commonly refer to?","options":["A highly experienced player using a new or low-ranked account","A player who only uses blue character skins","A server reserved for tournament practice","A tool that measures network latency"]}

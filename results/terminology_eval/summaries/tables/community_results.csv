@@ -1,0 +1,179 @@
+community,terms,items,correct,micro_accuracy,macro_term_accuracy,ci_low,ci_high,format_errors,format_error_rate,extra_generation
+Age of Empires II / Unorthodox Openings,1,6,1,0.16666666666666666,0.16666666666666666,0.16666666666666666,0.16666666666666666,0,0.0,6
+Archipelago / Multi-Game Randomizers,1,6,3,0.5,0.5,0.5,0.5,0,0.0,6
+Archipelago / Randomizer Generation,1,4,2,0.5,0.5,0.5,0.5,0,0.0,4
+Archipelago / Randomizer Planning,1,8,4,0.5,0.5,0.5,0.5,0,0.0,8
+Archipelago / Randomizer Reachability,1,8,2,0.25,0.25,0.25,0.25,0,0.0,8
+Arqade / Ad-Hoc Groups,1,8,6,0.75,0.75,0.75,0.75,0,0.0,8
+Arqade / Diablo II Performance,1,1,0,0.0,0.0,0.0,0.0,0,0.0,1
+Arqade / Fighting Game Pressure,1,8,2,0.25,0.25,0.25,0.25,0,0.0,8
+Arqade / MOBA Positioning,1,5,5,1.0,1.0,1.0,1.0,0,0.0,5
+Arqade / Matchmaking Abuse,1,7,6,0.8571428571428571,0.8571428571428571,0.8571428571428571,0.8571428571428571,0,0.0,7
+Arqade / Mobile Monetization,1,6,3,0.5,0.5,0.5,0.5,0,0.0,6
+Arqade / Multiplayer Conduct,1,8,6,0.75,0.75,0.75,0.75,0,0.0,8
+Arqade / Network Movement,1,5,5,1.0,1.0,1.0,1.0,0,0.0,5
+Arqade / Player Identity,1,4,4,1.0,1.0,1.0,1.0,0,0.0,4
+Arqade / Pokémon Challenge Runs,1,8,3,0.375,0.375,0.375,0.375,0,0.0,8
+Arqade / Ranked Competition,1,7,3,0.42857142857142855,0.42857142857142855,0.42857142857142855,0.42857142857142855,0,0.0,7
+Arqade / Reward-System Design,1,8,3,0.375,0.375,0.375,0.375,0,0.0,7
+Arqade / Shooter Movement,1,6,2,0.3333333333333333,0.3333333333333333,0.3333333333333333,0.3333333333333333,0,0.0,6
+Arqade / Shooter Weapon Models,1,8,7,0.875,0.875,0.875,0.875,0,0.0,8
+Arqade / World of Warcraft PvP,1,6,1,0.16666666666666666,0.16666666666666666,0.16666666666666666,0.16666666666666666,0,0.0,6
+Arqade / World of Warcraft Travel,1,8,3,0.375,0.375,0.375,0.375,0,0.0,8
+Blue Team / Detection Engineering,1,8,5,0.625,0.625,0.625,0.625,0,0.0,8
+Blue Team / Living-off-the-Land Detection,1,8,4,0.5,0.5,0.5,0.5,2,0.25,8
+Blue Team / Malware Command-and-Control,1,7,2,0.2857142857142857,0.2857142857142857,0.2857142857142857,0.2857142857142857,0,0.0,7
+Bug Bounty / Web Cache Testing,1,8,4,0.5,0.5,0.5,0.5,0,0.0,8
+CERT-EU / Authentication-Protocol Attacks,1,6,2,0.3333333333333333,0.3333333333333333,0.3333333333333333,0.3333333333333333,0,0.0,6
+CERT-EU / Strategic Web Compromise,1,8,5,0.625,0.625,0.625,0.625,0,0.0,8
+CTF / Address Disclosure,1,6,4,0.6666666666666666,0.6666666666666666,0.6666666666666666,0.6666666666666666,0,0.0,6
+CTF / ELF Exploitation,1,8,5,0.625,0.625,0.625,0.625,0,0.0,8
+CTF / Heap Exploitation,3,24,10,0.4166666666666667,0.4166666666666667,0.25,0.625,0,0.0,24
+CTF / ROP Gadget Chaining,1,5,1,0.2,0.2,0.2,0.2,0,0.0,5
+CTF / Return-Oriented Programming,2,15,5,0.3333333333333333,0.33035714285714285,0.2857142857142857,0.375,0,0.0,15
+CTF / Signal-Frame Exploitation,1,8,3,0.375,0.375,0.375,0.375,0,0.0,8
+CTF / libc Exploitation,1,4,2,0.5,0.5,0.5,0.5,0,0.0,4
+Counter-Strike / Angle Clearing,1,5,2,0.4,0.4,0.4,0.4,0,0.0,5
+Cybersecurity / Account Takeover,1,8,4,0.5,0.5,0.5,0.5,0,0.0,8
+Cybersecurity / Identity Analytics,1,8,1,0.125,0.125,0.125,0.125,0,0.0,8
+Cybersecurity / Kerberos Defense,1,7,6,0.8571428571428571,0.8571428571428571,0.8571428571428571,0.8571428571428571,0,0.0,7
+Cybersecurity / Windows Authentication,1,7,4,0.5714285714285714,0.5714285714285714,0.5714285714285714,0.5714285714285714,0,0.0,7
+Dead Cells / Shield Invulnerability,1,8,5,0.625,0.625,0.625,0.625,0,0.0,8
+Destiny 2 / Guided Raiding,1,8,4,0.5,0.5,0.5,0.5,0,0.0,8
+Destiny 2 / Matchmade Teammates,1,8,2,0.25,0.25,0.25,0.25,0,0.0,8
+Destiny 2 / Movement Tech,1,8,1,0.125,0.125,0.125,0.125,0,0.0,8
+Destiny 2 / Objective Mechanics,1,8,2,0.25,0.25,0.25,0.25,0,0.0,8
+Destiny 2 / Raid LFG,1,8,2,0.25,0.25,0.25,0.25,0,0.0,8
+Dota 2 / Attack-Move Timing,1,7,2,0.2857142857142857,0.2857142857142857,0.2857142857142857,0.2857142857142857,0,0.0,7
+Dota 2 / Jungle Economy,1,6,4,0.6666666666666666,0.6666666666666666,0.6666666666666666,0.6666666666666666,0,0.0,5
+Dota 2 / Matchmaking,1,8,8,1.0,1.0,1.0,1.0,0,0.0,8
+Dota 2 / Split-Push Strategy,1,8,3,0.375,0.375,0.375,0.375,0,0.0,8
+ENISA / Cybercrime Ecosystem,1,8,6,0.75,0.75,0.75,0.75,0,0.0,8
+ENISA / Public Administration Threats,1,8,5,0.625,0.625,0.625,0.625,0,0.0,8
+ENISA / Ransomware Threat Landscape,1,8,8,1.0,1.0,1.0,1.0,0,0.0,8
+ENISA / Windows File Provenance,1,4,4,1.0,1.0,1.0,1.0,0,0.0,4
+Elastic Security / In-Memory Execution,1,8,7,0.875,0.875,0.875,0.875,0,0.0,8
+Elastic Security / Social Engineering,1,8,1,0.125,0.125,0.125,0.125,1,0.125,8
+Elden Ring / Attribute Optimization,1,7,4,0.5714285714285714,0.5714285714285714,0.5714285714285714,0.5714285714285714,0,0.0,7
+Elden Ring / Build Survivability,1,8,0,0.0,0.0,0.0,0.0,1,0.125,8
+Elden Ring / Dodge Timing,1,8,1,0.125,0.125,0.125,0.125,0,0.0,7
+Endpoint Security / Memory-Resident Threats,1,8,7,0.875,0.875,0.875,0.875,0,0.0,8
+Exploit Development / Dynamic Linker Abuse,1,8,3,0.375,0.375,0.375,0.375,0,0.0,8
+Exploit Development / Heap Exploitation,1,8,5,0.625,0.625,0.625,0.625,0,0.0,8
+Fighting Game Community / Defensive Option Selects,1,7,3,0.42857142857142855,0.42857142857142855,0.42857142857142855,0.42857142857142855,0,0.0,7
+Fighting Game Community / Wake-Up Pressure,1,8,1,0.125,0.125,0.125,0.125,0,0.0,8
+Final Fantasy XIV / Dungeon Mob Packs,1,8,6,0.75,0.75,0.75,0.75,0,0.0,8
+Final Fantasy XIV / Dungeon Tanking,1,7,3,0.42857142857142855,0.42857142857142855,0.42857142857142855,0.42857142857142855,0,0.0,7
+Final Fantasy XIV / Machinist Cooldowns,1,7,1,0.14285714285714285,0.14285714285714285,0.14285714285714285,0.14285714285714285,0,0.0,7
+Final Fantasy XIV / Ninja Optimization,1,8,4,0.5,0.5,0.5,0.5,0,0.0,8
+Final Fantasy XIV / Off-Global Abilities,1,8,2,0.25,0.25,0.25,0.25,0,0.0,8
+Final Fantasy XIV / Party Finder Raiding,1,7,2,0.2857142857142857,0.2857142857142857,0.2857142857142857,0.2857142857142857,0,0.0,7
+Final Fantasy XIV / Reaper Rotation,1,8,5,0.625,0.625,0.625,0.625,0,0.0,8
+Final Fantasy XIV / Rotation Optimization,1,8,5,0.625,0.625,0.625,0.625,0,0.0,8
+Final Fantasy XIV / Samurai Melee Optimization,1,8,2,0.25,0.25,0.25,0.25,0,0.0,8
+Final Fantasy XIV / Savage Raiding,1,7,1,0.14285714285714285,0.14285714285714285,0.14285714285714285,0.14285714285714285,0,0.0,7
+Final Fantasy XIV / Scholar Movement,1,8,3,0.375,0.375,0.375,0.375,0,0.0,8
+Grim Dawn / Damage-Survivability Tradeoff,1,8,5,0.625,0.625,0.625,0.625,0,0.0,8
+Hack The Box / Binary Exploitation,1,8,3,0.375,0.375,0.375,0.375,1,0.125,8
+Hack The Box / Kerberos Attacks,1,8,3,0.375,0.375,0.375,0.375,1,0.125,8
+Hack The Box / Return-Oriented Programming,1,8,3,0.375,0.375,0.375,0.375,0,0.0,8
+Hack The Box / Stack Exploitation,1,7,4,0.5714285714285714,0.5714285714285714,0.5714285714285714,0.5714285714285714,0,0.0,7
+Hacker News / Dependency Security,1,8,6,0.75,0.75,0.75,0.75,0,0.0,8
+Hacker News / Retro FPS,1,8,2,0.25,0.25,0.25,0.25,0,0.0,8
+Impacket / Active Directory Replication,1,2,1,0.5,0.5,0.5,0.5,0,0.0,2
+Incident Response / Windows Credential Theft,1,8,5,0.625,0.625,0.625,0.625,0,0.0,8
+Information Security Stack Exchange / Authorization,1,7,4,0.5714285714285714,0.5714285714285714,0.5714285714285714,0.5714285714285714,0,0.0,7
+Information Security Stack Exchange / Cryptographic Attacks,1,8,7,0.875,0.875,0.875,0.875,0,0.0,8
+Information Security Stack Exchange / Deception Technology,1,8,2,0.25,0.25,0.25,0.25,0,0.0,8
+Information Security Stack Exchange / Filesystem Races,1,8,7,0.875,0.875,0.875,0.875,0,0.0,8
+Information Security Stack Exchange / Kubernetes Secrets,1,8,6,0.75,0.75,0.75,0.75,0,0.0,8
+Information Security Stack Exchange / Network Interception,1,8,6,0.75,0.75,0.75,0.75,0,0.0,8
+Information Security Stack Exchange / Password Derivation,1,8,7,0.875,0.875,0.875,0.875,0,0.0,8
+Information Security Stack Exchange / Password Hashing,1,8,6,0.75,0.75,0.75,0.75,0,0.0,8
+Information Security Stack Exchange / Physical Access Attacks,1,8,6,0.75,0.75,0.75,0.75,0,0.0,8
+Information Security Stack Exchange / TLS Validation,1,8,5,0.625,0.625,0.625,0.625,0,0.0,8
+Information Security Stack Exchange / Trust Models,1,8,5,0.625,0.625,0.625,0.625,0,0.0,8
+Killing Floor 2 / Enemy Movement,1,8,4,0.5,0.5,0.5,0.5,1,0.125,8
+League of Legends / Top-Lane Wave Management,1,8,3,0.375,0.375,0.375,0.375,0,0.0,8
+League of Legends / Wave Management,1,8,2,0.25,0.25,0.25,0.25,0,0.0,8
+Left 4 Dead 2 / Movement Tech,1,8,3,0.375,0.375,0.375,0.375,0,0.0,8
+LiveSplit / Speedrun Automation,1,6,3,0.5,0.5,0.5,0.5,0,0.0,6
+Minecraft Bedrock / Chunk Loading,1,8,4,0.5,0.5,0.5,0.5,0,0.0,8
+Minecraft Java / Piston Update Mechanics,1,6,3,0.5,0.5,0.5,0.5,0,0.0,6
+Minecraft Java / Technical Redstone,1,8,2,0.25,0.25,0.25,0.25,0,0.0,8
+Monster Hunter Wilds / Encounter Thresholds,1,8,2,0.25,0.25,0.25,0.25,0,0.0,8
+NCSC / Brute-Force Defense,1,8,6,0.75,0.75,0.75,0.75,0,0.0,8
+NCSC / Cloud Initial Access,1,8,7,0.875,0.875,0.875,0.875,0,0.0,8
+NCSC / Malicious Infrastructure,1,8,4,0.5,0.5,0.5,0.5,0,0.0,8
+NIST / Adaptive Network Defense,1,8,5,0.625,0.625,0.625,0.625,0,0.0,8
+NIST / Network Risk Modeling,1,8,5,0.625,0.625,0.625,0.625,0,0.0,8
+Netsec / Vulnerability Exploitation,1,8,4,0.5,0.5,0.5,0.5,0,0.0,8
+New World / Combat Optimization,1,8,2,0.25,0.25,0.25,0.25,0,0.0,8
+Nuclei / Out-of-Band Testing,1,8,5,0.625,0.625,0.625,0.625,0,0.0,8
+Nuclei / Vulnerability Templates,1,8,4,0.5,0.5,0.5,0.5,3,0.375,8
+OSINT / Persona Management,1,6,3,0.5,0.5,0.5,0.5,0,0.0,6
+Persona 5: The Phantom X / Gacha Probabilities,1,8,6,0.75,0.75,0.75,0.75,0,0.0,7
+Pokémon / Damage Optimization,1,8,6,0.75,0.75,0.75,0.75,0,0.0,8
+Pokémon / Shiny and IV Hunting,1,7,3,0.42857142857142855,0.42857142857142855,0.42857142857142855,0.42857142857142855,0,0.0,6
+Pokémon / Stat Optimization,1,5,1,0.2,0.2,0.2,0.2,0,0.0,5
+Red Team / Active Directory Operations,1,8,5,0.625,0.625,0.625,0.625,0,0.0,8
+Red Team / Windows Credential Abuse,1,8,2,0.25,0.25,0.25,0.25,3,0.375,8
+Remnant II / Damage Absorption Builds,1,3,2,0.6666666666666666,0.6666666666666666,0.6666666666666666,0.6666666666666666,0,0.0,3
+Reverse Engineering / Binary Unpacking,1,8,5,0.625,0.625,0.625,0.625,0,0.0,8
+Reverse Engineering Stack Exchange / Code Obfuscation,1,8,4,0.5,0.5,0.5,0.5,0,0.0,8
+Reverse Engineering Stack Exchange / Obfuscation,1,8,6,0.75,0.75,0.75,0.75,0,0.0,8
+Shadowrun: Hong Kong / Target Control,1,4,3,0.75,0.75,0.75,0.75,0,0.0,4
+Sins of a Solar Empire II / Fleet Strategy,1,8,4,0.5,0.5,0.5,0.5,0,0.0,8
+Speedrunning / Collision Glitches,1,8,6,0.75,0.75,0.75,0.75,1,0.125,8
+Speedrunning / Completion Categories,1,8,5,0.625,0.625,0.625,0.625,0,0.0,8
+Speedrunning / Game-Cycle Timing,1,8,3,0.375,0.375,0.375,0.375,0,0.0,8
+Speedrunning / Glitch Routing,1,8,0,0.0,0.0,0.0,0.0,0,0.0,8
+Speedrunning / In-Game Timing,1,8,1,0.125,0.125,0.125,0.125,1,0.125,8
+Speedrunning / Individual Levels,1,8,3,0.375,0.375,0.375,0.375,0,0.0,8
+Speedrunning / LiveSplit Timing,1,8,2,0.25,0.25,0.25,0.25,0,0.0,8
+Speedrunning / Major-Glitch Restrictions,1,8,2,0.25,0.25,0.25,0.25,0,0.0,8
+Speedrunning / Out-of-Bounds Routing,1,8,4,0.5,0.5,0.5,0.5,0,0.0,8
+Speedrunning / Personal Records,1,7,3,0.42857142857142855,0.42857142857142855,0.42857142857142855,0.42857142857142855,0,0.0,7
+Speedrunning / Pokémon Routing,1,8,3,0.375,0.375,0.375,0.375,0,0.0,8
+Speedrunning / Restricted Categories,1,8,2,0.25,0.25,0.25,0.25,0,0.0,8
+Speedrunning / Route-Breaking Glitches,1,8,3,0.375,0.375,0.375,0.375,0,0.0,8
+Speedrunning / Save-Based Routing,1,6,2,0.3333333333333333,0.3333333333333333,0.3333333333333333,0.3333333333333333,0,0.0,6
+Speedrunning / Timing Methods,1,8,2,0.25,0.25,0.25,0.25,0,0.0,8
+Speedrunning / Tool-Assisted Routing,1,7,3,0.42857142857142855,0.42857142857142855,0.42857142857142855,0.42857142857142855,0,0.0,7
+Super Smash Bros. / Aerial Approach Tech,1,7,2,0.2857142857142857,0.2857142857142857,0.2857142857142857,0.2857142857142857,0,0.0,7
+Super Smash Bros. / Momentum Reversal,1,6,4,0.6666666666666666,0.6666666666666666,0.6666666666666666,0.6666666666666666,0,0.0,6
+Super Smash Bros. Melee / Movement Tech,1,3,3,1.0,1.0,1.0,1.0,0,0.0,3
+System Administration / Authentication UX,1,7,6,0.8571428571428571,0.8571428571428571,0.8571428571428571,0.8571428571428571,0,0.0,7
+The Slormancer / Trigger-Based Builds,1,8,3,0.375,0.375,0.375,0.375,0,0.0,8
+Threat Intelligence / Interactive Intrusions,1,8,6,0.75,0.75,0.75,0.75,0,0.0,8
+Threat Intelligence / State-Sponsored Intrusions,1,8,8,1.0,1.0,1.0,1.0,0,0.0,8
+Threat Research / Process Injection,1,7,7,1.0,1.0,1.0,1.0,0,0.0,7
+Threat Research / Trusted Binary Abuse,1,8,6,0.75,0.75,0.75,0.75,0,0.0,8
+Threat Research / Vulnerable Driver Abuse,1,8,5,0.625,0.625,0.625,0.625,0,0.0,8
+Threat Research / Windows Execution,1,8,5,0.625,0.625,0.625,0.625,0,0.0,8
+Total War: Warhammer II / Army Composition,1,8,4,0.5,0.5,0.5,0.5,0,0.0,8
+VALORANT / Aim Duels,1,8,2,0.25,0.25,0.25,0.25,0,0.0,8
+VALORANT / Movement Accuracy,1,8,2,0.25,0.25,0.25,0.25,0,0.0,7
+War Thunder / Match Tactics,1,7,3,0.42857142857142855,0.42857142857142855,0.42857142857142855,0.42857142857142855,0,0.0,7
+Warframe / Ability-Scaling Weapons,1,8,2,0.25,0.25,0.25,0.25,0,0.0,8
+Warframe / Cosmetic Endgame,1,7,3,0.42857142857142855,0.42857142857142855,0.42857142857142855,0.42857142857142855,0,0.0,6
+Warframe / Critical-Hit Scaling,1,8,3,0.375,0.375,0.375,0.375,0,0.0,8
+Warframe / High-Level Builds,1,6,0,0.0,0.0,0.0,0.0,0,0.0,6
+Warframe / Riven Trading,1,8,3,0.375,0.375,0.375,0.375,0,0.0,8
+Warframe / Survivability Builds,1,8,4,0.5,0.5,0.5,0.5,0,0.0,8
+Web Security / API Object Binding,1,8,5,0.625,0.625,0.625,0.625,0,0.0,8
+Web Security Research / Cache Attacks,1,8,3,0.375,0.375,0.375,0.375,0,0.0,8
+Web Security Research / Cache Keying,1,8,5,0.625,0.625,0.625,0.625,0,0.0,7
+Web Security Research / JavaScript Backends,1,8,6,0.75,0.75,0.75,0.75,0,0.0,7
+Web Security Research / Race Conditions,1,8,3,0.375,0.375,0.375,0.375,0,0.0,8
+Web Security Research / Request Smuggling,1,8,3,0.375,0.375,0.375,0.375,0,0.0,8
+World of Warcraft / Assassination Rogue,1,5,1,0.2,0.2,0.2,0.2,0,0.0,5
+World of Warcraft / Combat Logs,1,8,4,0.5,0.5,0.5,0.5,1,0.125,8
+World of Warcraft / Cooldown Recovery,1,8,8,1.0,1.0,1.0,1.0,0,0.0,7
+World of Warcraft / Damage-over-Time Refresh,1,8,2,0.25,0.25,0.25,0.25,0,0.0,8
+World of Warcraft / Encounter Strategy,1,8,3,0.375,0.375,0.375,0.375,0,0.0,8
+World of Warcraft / Feral Druid Optimization,1,8,2,0.25,0.25,0.25,0.25,0,0.0,8
+World of Warcraft / Low-Level PvP,1,7,3,0.42857142857142855,0.42857142857142855,0.42857142857142855,0.42857142857142855,0,0.0,7
+World of Warcraft / Raid Cooldown Timing,1,8,3,0.375,0.375,0.375,0.375,0,0.0,8
+World of Warcraft / Raid Performance,1,8,5,0.625,0.625,0.625,0.625,0,0.0,8
+Wuthering Waves / Long-Term Balance,1,8,5,0.625,0.625,0.625,0.625,0,0.0,8

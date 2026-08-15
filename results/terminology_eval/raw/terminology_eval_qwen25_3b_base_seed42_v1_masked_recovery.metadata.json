@@ -1,0 +1,54 @@
+{
+  "already_completed": 0,
+  "config_path": "/Users/bobyan/llm-research/configs/terminology_eval.yaml",
+  "config_sha256": "c79448ec6e3c8c7316b03bdf8d144c59208b236070b12ef4f9470e24624dfbf9",
+  "data_path": "/Users/bobyan/llm-research/data/processed/terminology_eval/masked_recovery.jsonl",
+  "data_sha256": "01420ed6f90937c9350a7d4482162463c80b78fdf4704241dc51f776f0d6bb5b",
+  "experiment": "masked_recovery",
+  "generation": {
+    "do_sample": false,
+    "max_new_tokens_compatibility": 4,
+    "max_new_tokens_definition": 64,
+    "max_new_tokens_mcq": 8,
+    "seed": 42,
+    "temperature": 0.0,
+    "top_k": 0,
+    "top_p": 1.0
+  },
+  "model": {
+    "architecture": "qwen2",
+    "backend": "mlx-lm",
+    "chat_template_applied": false,
+    "family": "Qwen2.5",
+    "max_context": 32768,
+    "max_kv_size": 512,
+    "parameter_count": "3.09B",
+    "path": "models/Qwen2.5-3B-4bit",
+    "quantization": {
+      "bits": 4,
+      "group_size": 64
+    },
+    "quantization_bits": 4,
+    "quantization_group_size": 64,
+    "repository_id": "mlx-community/Qwen2.5-3B-4bit",
+    "resolved_path": "/Users/bobyan/llm-research/models/Qwen2.5-3B-4bit",
+    "revision": "76ae31041917ee0ef78284988aca339694acb7e9",
+    "stage": "base",
+    "tokenizer": "Qwen2Tokenizer"
+  },
+  "offline_flags": {
+    "HF_HUB_OFFLINE": "1",
+    "TRANSFORMERS_OFFLINE": "1"
+  },
+  "run_id": "terminology_eval_qwen25_3b_base_seed42_v1",
+  "runtime": {
+    "machine": "arm64",
+    "mlx": "0.32.0",
+    "mlx_lm": "0.31.3",
+    "platform": "macOS-26.5.2-arm64-arm-64bit-Mach-O",
+    "python": "3.13.3",
+    "transformers": "5.15.0"
+  },
+  "selected_items": 1335,
+  "started_utc": "2026-08-15T17:39:05.105922+00:00"
+}
